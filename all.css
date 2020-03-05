@@ -1,3 +1,23 @@
-body {
+td.otterCaption {
     border: solid fuchsia
+}
+
+td.otterCaption {
+    background-color: blanchedalmond;
+}
+
+tr {
+    margin:0px
+}
+
+#cattable {
+    border: solid rebeccapurple 30px;
+}
+
+img.cat{
+    height: 200px
+}
+
+img.fish {
+    width: 100%
 }
